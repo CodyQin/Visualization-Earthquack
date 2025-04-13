@@ -52,6 +52,10 @@ Dataset includes:
 
 The output is fully interactive HTML maps:
 
+EarthQuake Visualization Redesign colored with Level Index Ranges:https://static.us.edusercontent.com/files/yGm6TGjSeMRKRRvulUw9ViG0
+
+EarthQuake Visualization Redesign colored with Gradual Level Index:https://static.us.edusercontent.com/files/c3RZfxzo5yOq2CmHov5oaCm3
+
 ### 🖼️ Example Screenshots
 - Marker distribution by magnitude
 - Color-coded severity (Green < 3.0, Orange: 3.0–4.9, Red ≥ 5.0)
