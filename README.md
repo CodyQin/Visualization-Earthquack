@@ -50,7 +50,7 @@ Dataset includes:
 
 ## Output
 
-The output is fully interactive HTML maps:
+The output are fully interactive HTML maps:
 
 EarthQuake Visualization Redesign colored with Level Index Ranges:https://static.us.edusercontent.com/files/yGm6TGjSeMRKRRvulUw9ViG0
 
