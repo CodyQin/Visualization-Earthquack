@@ -58,12 +58,15 @@ The output is fully interactive HTML maps:
 - Zoom and hover-enabled data tooltips
 
 EarthQuake Visualization Redesign colored with Level Index Ranges
+
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/fde78a1b-cd2e-4a2b-bb3e-654e564547e0" />
 
 EarthQuake Visualization Redesign colored with Gradual Level Index
+
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/32ef4ca9-ed3a-4e8f-ae08-e9813de2e529" />
 
 EarthQuake Visualization Details Example when touching the Signal
+
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/2f608471-e080-4fe1-96d0-d3465c603c2c" />
 
 
