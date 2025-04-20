@@ -73,6 +73,11 @@ EarthQuake Visualization Details Example when touching the Signal
 
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/2f608471-e080-4fe1-96d0-d3465c603c2c" />
 
+Revised Version with Point Clustering and Text Labels
+
+<img width="1426" alt="Screenshot 2025-04-20 at 22 48 55" src="https://github.com/user-attachments/assets/125d3ac9-9bf5-4a4e-8615-0c6a701c699a" />
+
+
 
 ## Citation
 
