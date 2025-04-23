@@ -2,6 +2,9 @@
 
 This project aims to redesign global earthquake data visualizations to improve clarity, interactivity, and usability for general users, researchers, and decision-makers. It utilizes real-time data from the United States Geological Survey (USGS) and Python-based tools to display recent seismic activity on an interactive map.
 
+# Acknowledgement
+This project has benefitted from the conversations at the Digital Technology for Sustainability Symposium at Duke Kunshan University on April 18. We especially thank Prof. Chandrashekar Radhakrishnan, Prof. David Schaaf and Prof Dongping Liu for his insights that helped improve the work, and the conference Chair members Prof Luyao Zhang, Prof Fan Liang and Prof Charles Chang for making the symposium happen.
+
 ## Project Objective
 
 To create a more accessible and visually effective interface for analyzing and understanding recent earthquake events worldwide. The design focuses on:
