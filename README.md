@@ -82,7 +82,52 @@ Revised Version with Point Clustering and Text Labels
 
 
 
-## Citation
 
-United States Geological Survey. “Real-time Earthquake Map.” Last modified April 2025. https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php.
+
+## 4. Future Research
+
+The visit to the **Zhouzhuang Mystery of Life Museum** sparked innovative ideas for bridging digital humanities, biodiversity education, and community engagement. Although the museum’s anatomical displays of humans and animals were visually impactful, they also revealed challenges in **accessibility** for lay audiences and those who may find such content distressing.
+
+A promising future direction involves transforming these exhibits into an immersive **Augmented Reality (AR)** experience. Leveraging advanced technologies like **Apple Vision Pro**, users could explore anatomical models interactively—zooming in, navigating at their own pace, and engaging in a more personalized, emotionally considerate manner. By integrating **multilingual support**, the experience would become more inclusive for global visitors.
+
+> This vision emphasizes ethical science communication, sensitivity in design, and user empowerment—aligning with the broader goals of digital humanities while promoting inclusive biological literacy.
+
+**AR-driven storytelling** holds great potential to inspire cross-disciplinary learning through immersive and thoughtful design.
+<img width="219" alt="image" src="https://github.com/user-attachments/assets/8c3fe858-392e-485a-9a24-c4c6d5199a6b" />
+
+*Figure 7. The specimen of the red panda in Zhouzhuang Mystery of Life Museum*
+
+---
+
+## Statement of Contribution to Sustainable Development Goals (SDGs)
+
+This project actively contributes to multiple **United Nations Sustainable Development Goals (SDGs)** through its innovative applications in global data visualization.
+
+- By enhancing climate risk assessments via interactive maps and dynamic features, the work supports **SDG 13: Climate Action** by:
+  - Empowering policymakers and communities to interpret climate projections
+  - Prioritizing infrastructure resilience
+  - Mitigating environmental impacts
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0a4d7840-866c-40d8-8cf6-fa8fcae0872d" alt="SDG 13 Icon" width="200"/>
+</div>
+
+- The development of **TRAFFICVIS**, an interactive tool for detecting human trafficking patterns, contributes to **SDG 16: Peace, Justice, and Strong Institutions** by:
+  - Enabling law enforcement and anti-trafficking stakeholders to identify organized criminal activities
+  - Protecting vulnerable populations
+  - Promoting social justice
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5b41e8ec-44dd-43f5-b072-7750fc4f3d82" alt="SDG 16 Icon" width="200"/>
+</div>
+
+- The **real-time seismic activity visualization system** advances **SDG 11: Sustainable Cities and Communities** through:
+  - Raising public awareness of natural hazards
+  - Improving disaster preparedness
+  - Informing urban planning to reduce risks in vulnerable regions
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f81a62a7-5d94-4307-add7-2c6f7a4060d0" alt="SDG 11 Icon" width="200"/>
+</div>
+
 
